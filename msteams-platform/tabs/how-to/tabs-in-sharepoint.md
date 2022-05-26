@@ -104,12 +104,12 @@ Download the [sample app manifest](https://github.com/MicrosoftDocs/msteams-docs
 1. When prompted, enable **Make this solution available to all sites in the organization**.
 The following image displays the corresponding screen:
 
-   ![Tabs in Sharepoint view](~/assets/images/tabs/tabs-in-sharepoint/image065.png)
+   ![Tabs in SharePoint view](~/assets/images/tabs/tabs-in-sharepoint/image065.png)
 
 1. In your site, create a new page by selecting the gear button at the upper right and then  select **Add a page**.
 The following image displays the corresponding screen:
 
-   ![Sharepoint view](~/assets/images/tabs/tabs-in-sharepoint/image066.png)
+   ![SharePoint view](~/assets/images/tabs/tabs-in-sharepoint/image066.png)
 
 1. You can see the SharePoint pages authoring experience. Name your page as **My Teams Tab**.
 
@@ -120,16 +120,16 @@ The following image displays the corresponding screen:
 1. Select the **Publish** button after you finish  editing.
 
 1. Select **Add page to navigation** to have a quick reference to your page in the left navigation bar.
-The following image displays the tab in Sharepoint:
+The following image displays the tab in SharePoint:
 
-   ![Tab in Sharepoint image](~/assets/images/tabs/tabs-in-sharepoint/image073.png)
+   ![Tab in SharePoint image](~/assets/images/tabs/tabs-in-sharepoint/image073.png)
 
 ## 3. Explore App Pages in SharePoint
 
 After your page is published, you can explore [turning your Teams app into a more complete experience inside SharePoint](/sharepoint/dev/spfx/web-parts/single-part-app-pages). This converts the current page into an App Page, showing the normal SharePoint page layout with a full page experience for the Teams tab.
 
 The following image displays the complete experience of Teams app in SharePoint:
-![Image of Tabs in Sharepoint](~/assets/images/tabs/tabs-in-sharepoint/image085.png)
+![Image of Tabs in SharePoint](~/assets/images/tabs/tabs-in-sharepoint/image085.png)
 
 ## Code sample
 
